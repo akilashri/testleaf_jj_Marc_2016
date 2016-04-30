@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="5">
+  <test name="Test Open Taps">
+    <classes>
+      <class name="testcases.TC02_CreateLead"/>
+      <class name="testcases.TC03_EditLead"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
